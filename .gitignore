@@ -1,3 +1,7 @@
 node_modules/
 build/
-wrangler.toml
+artifacts/
+cache/
+secrets.json
+scripts/balance-list.json
+scripts/balance-map.json
