@@ -2,7 +2,11 @@
   "name": "@valueswap/merkle-distributor",
   "version": "1.0.0",
   "description": "📦 A smart contract that distributes a balance of tokens according to a merkle root",
-  "author": "Value Network",
+  "author": {
+    "name": "Value Network",
+    "email": "support@valuenetwork.live",
+    "url": "https://valuenetwork.live"
+  },
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
