@@ -6,7 +6,7 @@ const balanceMap = require('./balance-map.json');
 
 async function main() {
   checkDir();
-  const token = '0xd0f05D3D4e4d1243Ac826d8c6171180c58eaa9BC'; // VNTW_ADDRESS
+  const token = '0xFa29FfdeB7666133C97768Fb438f268bd3dD0f50'; // VNTW_ADDRESS
   const merkleRoot = balanceMap.merkleRoot;
   const infoMerkleDistributor = await deployMerkleDistributor(token, merkleRoot);
   // transfer 2000 VNTW to infoMerkleDistributor contract address
