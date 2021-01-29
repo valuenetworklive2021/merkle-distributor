@@ -1,7 +1,6 @@
 {
-  "merkleRoot": "0x39a6415f2930868585239a39013a03b8a63d6799fd5fd9b674d55c189378d083",
-  "tokenTotal": "0x0100",
-  "claims": {
-    "0x7F8d5E6C61685cCc92970c17c2659341e7eDAfe2": { "index": 0, "amount": "0x0100", "proof": [] }
-  }
+  "merkleRoot": "0xdefa96435aec82d201dbd2e5f050fb4e1fef5edac90ce1e03953f916a5e1132d",
+  "tokenTotal": "0x64",
+  "numDrops": 1,
+  "claims": { "0x1f2b12Ef34ca629341F2F77440F0a55a115C86cB": { "index": 0, "amount": "0x64", "proof": [] } }
 }
